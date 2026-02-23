@@ -182,6 +182,10 @@ footer .wrapper {
 .menu-social {
     margin: 0;
     padding: 0;
+
+    list-style: none;
+    display: flex;
+    gap: 10px;
 }
 
 /* ===== Numéro 6c ===== */
@@ -189,6 +193,7 @@ footer .wrapper {
 .menu-social a {
     color: #fff;
     background-color: #F2545B;
+    text-decoration: none;
 
     height: 40px;
     width: 40px;
