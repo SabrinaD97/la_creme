@@ -36,6 +36,11 @@ body {
    Modules
 ------------------------------------------------------------------------------*/
 
+/* ===== Numéro 3f ===== */
+header {
+    padding: 20px 0px;
+}
+
 /* ===== Numéro 3a ===== */
 header .wrapper {
     display: flex;
@@ -55,7 +60,6 @@ header .wrapper {
 }
 
 /* ===== Numéro 3c ===== */
-
 .menu ul {
     margin: 0;
     padding: 0;
@@ -66,9 +70,7 @@ header .wrapper {
     gap: 30px;
 }
 
-
 /* ===== Numéro 3d ===== */
-
 .menu a {
     font: bold 0.875rem "PT Sans", sans-serif;
     color: #000;
@@ -82,24 +84,15 @@ header .wrapper {
     text-decoration: none;
 }
 
-/* ===== Numéro 3f ===== */
-
-header {
-    padding: 20px 0px;
-}
-
 /* ===== Numéro 3e ===== */
-
 .menu a:hover {
     border: 2px solid #000;
 }
 
 /* ===== Numéro 4a ===== */
-
 .hero {
     background: url('../images/hero.jpg') no-repeat center right/cover;
 }
-
 
 /* ===== Numéro 4b ===== */
 .hero .wrapper {
@@ -116,7 +109,6 @@ header {
 }
 
 /* ===== Numéro 4d ===== */
-
 .hero h1 {
     font: 100 6.25rem/100% Nunito, sans-serif;
 
@@ -126,13 +118,11 @@ header {
 }
 
 /* ===== Numéro 5c ===== */
-
 .athletes {
     padding: 100px 0;
 }
 
 /* ===== Numéro 5a ===== */
-
 .athletes h2 {
     font: bold 3.125rem Nunito, sans-serif;
     letter-spacing: 0.05em;
@@ -140,9 +130,7 @@ header {
     margin: 0 0 50px;
 }
 
-
 /* ===== Numéro 5b ===== */
-
 .athletes p {
     margin: 0 0 50px;
 }
@@ -165,7 +153,6 @@ header {
     grid-row-end: span 2;
 }
 
-
 /* ===== Numéro 6a ===== */
 footer {
     background-color: #000;
@@ -178,7 +165,6 @@ footer .wrapper {
 }
 
 /* ===== Numéro 6b ===== */
-
 .menu-social {
     margin: 0;
     padding: 0;
@@ -189,7 +175,6 @@ footer .wrapper {
 }
 
 /* ===== Numéro 6c ===== */
-
 .menu-social a {
     color: #fff;
     background-color: #F2545B;
@@ -205,7 +190,6 @@ footer .wrapper {
 }
 
 /* ===== Numéro 6d ===== */
-
 .menu-social a:hover {
     background: gray;
 }
